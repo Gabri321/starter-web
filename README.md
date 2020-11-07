@@ -4,7 +4,7 @@ This is a simple web project
 
 ## Development
 
-Development is not required
+Development is very required
 
 ## Settings
 
