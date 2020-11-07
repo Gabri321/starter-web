@@ -1,11 +1,11 @@
-#Introduction
+# Introduction
 
-##Development
+## Development
 
-##Settings
+## Settings
 
-##Configuration
+## Configuration
 
-##Other
+## Other
 
-##Conclusion
+## Conclusion
