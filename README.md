@@ -6,12 +6,12 @@ This is a simple web project
 
 Development is very required
 
-## Settings
+## Settingss
 
 Settings is not ready yet
 ## Configuration
 
-## Other
+## Others
 
 Nothing here
 
