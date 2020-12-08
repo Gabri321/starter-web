@@ -1,6 +1,6 @@
 # Introduction
 
-This is a simple web project
+This is a simple web project my friends
 
 ## Development
 
