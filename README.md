@@ -1,6 +1,10 @@
 # Introduction
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+This is a simple web project my bestfriends
+>>>>>>> Stashed changes
 =======
 This is a simple web project my bestfriends
 >>>>>>> Stashed changes
