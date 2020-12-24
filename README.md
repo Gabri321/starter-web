@@ -1,6 +1,9 @@
 # Introduction
 
-This is a simple web project my bestfriends!!
+<<<<<<< Updated upstream
+=======
+This is a simple web project my bestfriends
+>>>>>>> Stashed changes
 
 ## Development
 
