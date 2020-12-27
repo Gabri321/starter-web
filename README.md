@@ -13,7 +13,7 @@ This is a simple web project my bestfriends
 
 Development is very required
 
-## Settingss
+## Settingsss
 
 Settings is not ready yet
 ## Configuration
